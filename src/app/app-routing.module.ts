@@ -11,7 +11,6 @@ import { ComunaComponent } from './comuna/comuna.component';
 import { EmpresaEdicionComponent } from './empresa/empresa-edicion/empresa-edicion.component';
 import { EmpresaComponent } from './empresa/empresa.component';
 import { ProductoServicioComponent } from './producto-servicio/producto-servicio.component';
-import { ProductoServicioEdicionComponent } from './productoServicio/producto-servicio-edicion/producto-servicio-edicion.component';
 
 
 const routes: Routes = [
